@@ -1,7 +1,3 @@
-Below is a suggested README.md file for your GitHub repository:
-
----
-
 # Parallel Query Processing in PostgreSQL
 
 This repository contains code and resources related to parallel query processing in PostgreSQL. It includes Jupyter notebooks for adding dummy data to the database (`add_data.ipynb`), executing and comparing normal and parallel SQL queries (`main.ipynb`), and a requirements.txt file listing all required libraries. Additionally, a PDF document (`Theory.pdf`) explaining the theoretical background and implementation details of parallel computing in database query processing is provided.
@@ -27,5 +23,5 @@ This repository contains code and resources related to parallel query processing
 
 ## Contributors:
 
-- Anas Ansari (22010219)
-- Medini Patil (22010059)
+- Anas Ansari (@anas-ansri)
+- Medini Patil
